@@ -1,0 +1,40 @@
+{
+    "bin": {},
+    "dependencies": {
+        "noda": "^0.5.0"
+    },
+    "devDependencies": {
+        "mocha": "^3.3.0"
+    },
+    "directories": {},
+    "scripts": {
+        "test": "mocha"
+    },
+    "name": "zeep",
+    "version": "0.2.0",
+    "main": "index.js",
+    "keywords": [
+        "zip",
+        "unzip",
+        "7-zip",
+        "7z"
+    ],
+    "os": [
+        "win32"
+    ],
+    "cpu": [
+        "x64"
+    ],
+    "homepage": "https://github.com/YounGoat/nodejs.zeep",
+    "description": "zip/unzip API based on 7-Zip",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/YounGoat/nodejs.zeep.git"
+    },
+    "author": {
+        "name": "YounGoat",
+        "email": "youngoat@163.com",
+        "url": "https://youngoat.github.io"
+    },
+    "license": "LGPL"
+}
