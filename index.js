@@ -37,6 +37,7 @@ const MODULE_REQUIRE = 1
 
 const EXE = {
     'win32-x64': '7za-win.exe',
+    'win32-ia32': '7za-win.exe',
 };
 
 const deltree = pathname => {
