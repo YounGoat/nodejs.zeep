@@ -11,7 +11,7 @@
         "test": "mocha"
     },
     "name": "zeep",
-    "version": "0.2.1",
+    "version": "0.2.2",
     "main": "index.js",
     "keywords": [
         "zip",
@@ -23,7 +23,8 @@
         "win32"
     ],
     "cpu": [
-        "x64"
+        "x64",
+        "ia32"
     ],
     "homepage": "https://github.com/YounGoat/nodejs.zeep",
     "description": "zip/unzip API based on 7-Zip",
